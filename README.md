@@ -1,6 +1,6 @@
 # Duplicate File Remover
 
-This is a C++ programm to remove duplicate files in a given directory.
+This is a C++ program to remove duplicate files in a given directory.
 
 Comparison is made with MD5 checksums. Keep in mind that MD5 is known for collisions. No guarantee is given, run this program at your own risk.
 
